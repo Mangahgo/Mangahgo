@@ -1,23 +1,22 @@
-### 🚀 Progresso do Curso (20%)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001F3D&height=120&section=header"/>
 
-<!-- Barra de progresso animada em SVG -->
-<svg width="350" height="30" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fundo -->
-  <rect width="350" height="30" fill="#ddd" rx="5" />
-  
-  <!-- Barra animada -->
-  <rect id="bar" height="30" fill="#4caf50" rx="5">
-    <animate 
-      attributeName="width"
-      from="0"
-      to="70"  <!-- 20% de 350px = 70px -->
-      dur="2s"
-      fill="freeze"
-    />
-  </rect>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ED985F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Lago;I'm+20+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-  <!-- Texto 20% -->
-  <text x="175" y="20" font-size="16" text-anchor="middle" fill="#000">
-    20%
-  </text>
-</svg>
+
+ ### Main skills: 
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+
+<!--
+**Mangahgo/Mangahgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
